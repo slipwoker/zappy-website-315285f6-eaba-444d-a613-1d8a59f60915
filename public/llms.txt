@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לחנות הסקווישים הכי חמודה בישראל! צעצועים ומשחקים רכים וצבעוניים בגוונים פסטליים מתוקים. קנו סקווישים אונליין עכשיו!
+
+### תכונות
+https://example.com/features
+גלו את התכונות הייחודיות של הסקווישים שלנו — רכות מושלמת, צבעים קוואי מרהיבים ואיכות שאין שני לה. סקווישים לילדים שמביאים שמחה אמיתית בכל לחיצה!
+
+### אודות
+https://example.com/about
+הסיפור שלנו התחיל מאהבה עמוקה לסקווישים חמודים ולצעצועים ומשחקים שמביאים אושר. גלו מי עומד מאחורי המותג הכי מתוק בישראל ולמה כל ילד חייב סקוויש אחד!
+
+### צור קשר
+https://example.com/contact
+יש שאלה על קניית סקווישים אונליין בישראל? רוצים לקבל המלצה על הסקוויש הכי מתאים? צרו איתנו קשר עכשיו ונשמח לעזור לכם למצוא את הצעצוע החלומי!
+
+### Products
+https://example.com/products
+המוצרים שלנו - עולם הסקווישים של מאיה וליה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עולם הסקווישים של מאיה וליה
+
+### Category
+https://example.com/category/:slug
+מוצרים - עולם הסקווישים של מאיה וליה
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
